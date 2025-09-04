@@ -1,8 +1,17 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
 body {
     font-family: "Open Sans", sans-serif;
     letter-spacing: 0%;
     background-color: #F5F4F0;
 
+}
+
+.page {
+    width: 800px;
 }
 
 h1, h2, h3, .headline{
@@ -11,7 +20,8 @@ h1, h2, h3, .headline{
 }
 
 h1 {
-    font-size: 36px;    
+    font-size: 36px;   
+    padding-bottom: 40px; 
 }
 
 h2 {
@@ -19,7 +29,8 @@ h2 {
 }
 
 h3 {
-    font-size: 28px;    
+    font-size: 28px;   
+    padding-bottom: 4px; 
 }
 
 p {
